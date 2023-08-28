@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.Profile_Display{
+  background-color: aqua;
+}
